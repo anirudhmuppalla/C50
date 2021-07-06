@@ -1,0 +1,30 @@
+h1{
+    color:blue
+}
+*{
+   /*border: solid;*/
+    color: blue;
+    background-color:darkkhaki;
+}
+.header{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    background-color:crimson;
+    display: flex;
+    justify-content: space-around;
+}
+.images{
+    background-color:dodgerblue;
+    
+}
+.footer{
+    background-color:darksalmon;
+    display: flex;
+    justify-content: flex-end;
+}
+p{
+    text-align: center;
+}
